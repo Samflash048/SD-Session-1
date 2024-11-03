@@ -1,0 +1,14 @@
+:root {
+    --primary-colour: #651FFF;
+    --secondary-colour: #0B0D0E;
+    --tertiary-colour: #ECECFE;
+    --tertiary-colour-two: #1A284E;
+    --tertiary-colour-three: #E0F7FA;
+
+    --primary-header: 56;
+    --secondary-header: 48;
+    --tertiary-header: 34;
+    --regular-text: 18;
+    --medium-text: 16;
+    --extra-small-text: 14;
+}
