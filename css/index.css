@@ -5,10 +5,16 @@
     --tertiary-colour-two: #1A284E;
     --tertiary-colour-three: #E0F7FA;
 
-    --primary-header: 56;
-    --secondary-header: 48;
-    --tertiary-header: 34;
-    --regular-text: 18;
-    --medium-text: 16;
-    --extra-small-text: 14;
+    --primary-header: 56px;
+    --secondary-header: 48px;
+    --tertiary-header: 34px;
+    --regular-text: 18px;
+    --medium-text: 16px;
+    --extra-small-text: 14px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
